@@ -22,6 +22,8 @@
 
 ---
 
+<marquee behavior="scroll" direction="up" scrollamount="2" scrolldelay="60" onmouseover="this.stop();" onmouseout="this.start();" style="height: 450px; padding: 10px; border: 1px solid rgba(56, 189, 248, 0.3); border-radius: 12px; background: rgba(15, 23, 42, 0.4);">
+
 ### 🔬 Technical Experience & Internships
 
 * **IoT & Hardware Research Intern** *(July 2026 – Present)*
@@ -31,8 +33,6 @@
 ---
 
 ### 📂 Featured Projects
-
-<div style="max-height: 480px; overflow-y: auto; padding-right: 12px; border: 1px solid rgba(56, 189, 248, 0.3); border-radius: 12px; padding: 18px; background: rgba(15, 23, 42, 0.4);">
 
 ### 🚀 1. Medical Machine Safety & Telemetry Monitor
 > Real-time telemetry and safety monitoring dashboard built for medical diagnostic hardware, tracking sensor parameters, safety interlocks, and live event logs.
@@ -68,8 +68,6 @@
 >   <a href="https://github.com/04-Sai/Portfolio_S.K"><img src="https://img.shields.io/badge/📂_GitHub_Repo-1F2937?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/></a>
 > </p>
 
-</div>
-
 ---
 
 ### 🏆 Achievements & Recognitions
@@ -85,6 +83,8 @@
 
 * **Embedded Systems & IoT:** ESP32 Microcontrollers, ESP-NOW Protocol, Inductive Wireless Coupling, Sensor Integration, Circuit Diagnostics.
 * **Core Domains:** Real-time Telemetry, Hardware-Software Integration, Responsive Web Dashboards.
+
+</marquee>
 
 ---
 
