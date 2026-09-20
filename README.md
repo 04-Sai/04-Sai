@@ -24,7 +24,7 @@
 
 ### 🔬 Technical Experience & Internships
 
-* **IoT & Hardware Research Intern** 
+* **IoT & Hardware Research Intern** *(July 2026 – Present)*
   * Focused on core embedded systems development, hardware-software integration, and real-time telemetry sensor architecture.
   * Designed diagnostic monitoring applications for remote circuit reliability, automated safety interlocks, and sensor stream visualization.
 
@@ -32,8 +32,8 @@
 
 ### 📂 Featured Projects
 
-### 🚀 1. Medical Safety & Telemetry Monitor
-> Real-time IoT diagnostic dashboard tracking core chamber temperatures, system voltages, and safety interlocks for medical hardware reliability.
+### 🚀 1. Medical Machine Safety & Telemetry Monitor
+> Real-time telemetry and safety monitoring dashboard built for medical diagnostic hardware, tracking sensor parameters, safety interlocks, and live event logs.
 > 
 > **Tech Stack:** `React` `JavaScript` `Telemetry` `Safety Interlocks`
 > 
@@ -45,9 +45,9 @@
 ---
 
 ### ⚡ 2. Autonomous Smart Wireless Drone Charging Pad
-> IoT-based autonomous pad designed for wireless drone power delivery utilizing inductive coupling and ESP32 microcontrollers.
+> IoT-based autonomous pad designed for wireless drone power delivery utilizing inductive coupling and ESP32 microcontrollers for transmitter/receiver power management and status updates over ESP-NOW.
 > 
-> **Tech Stack:** `ESP32` `C++` `Inductive Coupling` `Sensors`
+> **Tech Stack:** `ESP32` `ESP-NOW` `C++` `Inductive Coupling` `Sensors`
 > 
 > <p>
 >   <a href="https://github.com/04-Sai/Autonomous-Smart-Wireless-Drone-Charging-Pad"><img src="https://img.shields.io/badge/📂_GitHub_Repo-1F2937?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/></a>
@@ -56,7 +56,7 @@
 ---
 
 ### 🌐 3. Personal Portfolio (Portfolio_S.K)
-> High-performance, cyberpunk-themed personal portfolio showcasing electronics, IoT projects, and technical achievements.
+> High-performance, modern cyber-themed personal portfolio showcasing electronics, IoT projects, and technical achievements.
 > 
 > **Tech Stack:** `HTML` `Tailwind CSS` `JavaScript`
 > 
@@ -64,6 +64,11 @@
 >   <a href="https://04-Sai.github.io/Portfolio_S.K"><img src="https://img.shields.io/badge/🌐_Live_Site-38BDF8?style=for-the-badge&logoColor=white" alt="Live Site"/></a>
 >   <a href="https://github.com/04-Sai/Portfolio_S.K"><img src="https://img.shields.io/badge/📂_GitHub_Repo-1F2937?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/></a>
 > </p>
+
+---
+
+### 🏆 Achievements & Recognitions
+* **Top 5 Finalist** (out of 83 teams) at the **MakeForBelagavi Makeathon** hosted at VTU.
 
 ---
 
