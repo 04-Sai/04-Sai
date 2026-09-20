@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Sahil Sanjay Kurbet 👋
+# Hi, I's Sahil Sanjay Kurbet 👋
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=ECE+Undergraduate+%F0%9F%94%8C;Embedded+Systems+%26+IoT+Enthusiast+%F0%9F%9A%80;Building+Smart+Hardware+%26+Web+Dashboards+%F0%9F%92%BB" alt="Typing SVG" />
 
@@ -31,6 +31,8 @@
 ---
 
 ### 📂 Featured Projects
+
+<div style="max-height: 450px; overflow-y: auto; padding-right: 10px; border: 1px solid rgba(56, 189, 248, 0.2); border-radius: 12px; padding: 16px;">
 
 ### 🚀 1. Medical Machine Safety & Telemetry Monitor
 > Real-time telemetry and safety monitoring dashboard built for medical diagnostic hardware, tracking sensor parameters, safety interlocks, and live event logs.
@@ -63,8 +65,10 @@
 > 
 > <p>
 >   <a href="https://04-Sai.github.io/Portfolio_S.K"><img src="https://img.shields.io/badge/🌐_Live_Site-38BDF8?style=for-the-badge&logoColor=white" alt="Live Site"/></a>
->   <a href="https://github.com/04-Sai/Portfolio_S.K"><img src="https://img.shields.io/badge/📂_GitHub_Repo-1F2937?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/></a>
+>   <a href="https://04-Sai.github.io/Portfolio_S.K"><img src="https://img.shields.io/badge/📂_GitHub_Repo-1F2937?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/></a>
 > </p>
+
+</div>
 
 ---
 
