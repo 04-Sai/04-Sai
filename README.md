@@ -22,7 +22,8 @@
 
 ---
 
-<marquee behavior="scroll" direction="up" scrollamount="2" scrolldelay="60" onmouseover="this.stop();" onmouseout="this.start();" style="height: 450px; padding: 10px; border: 1px solid rgba(56, 189, 248, 0.3); border-radius: 12px; background: rgba(15, 23, 42, 0.4);">
+<div style="max-height: 450px; overflow: hidden; border: 1px solid rgba(56, 189, 248, 0.3); border-radius: 12px; padding: 18px; background: rgba(15, 23, 42, 0.4);">
+<div style="animation: autoScroll 25s linear infinite; animation-delay: 3s;">
 
 ### 🔬 Technical Experience & Internships
 
@@ -84,7 +85,18 @@
 * **Embedded Systems & IoT:** ESP32 Microcontrollers, ESP-NOW Protocol, Inductive Wireless Coupling, Sensor Integration, Circuit Diagnostics.
 * **Core Domains:** Real-time Telemetry, Hardware-Software Integration, Responsive Web Dashboards.
 
-</marquee>
+</div>
+</div>
+
+<style>
+@keyframes autoScroll {
+  0% { transform: translateY(0%); }
+  100% { transform: translateY(-70%); }
+}
+div:hover > div {
+  animation-play-state: paused;
+}
+</style>
 
 ---
 
