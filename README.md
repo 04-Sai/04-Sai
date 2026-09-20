@@ -50,6 +50,7 @@
 > **Tech Stack:** `ESP32` `ESP-NOW` `C++` `Inductive Coupling` `Sensors`
 > 
 > <p>
+>   <a href="https://04-Sai.github.io/Autonomous-Smart-Wireless-Drone-Charging-Pad"><img src="https://img.shields.io/badge/🌐_Live_Demo-38BDF8?style=for-the-badge&logoColor=white" alt="Live Demo"/></a>
 >   <a href="https://github.com/04-Sai/Autonomous-Smart-Wireless-Drone-Charging-Pad"><img src="https://img.shields.io/badge/📂_GitHub_Repo-1F2937?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/></a>
 > </p>
 
